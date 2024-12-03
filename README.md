@@ -1,6 +1,15 @@
-# CTF-Tools
 
-Welcome to my CTF Tools repository! This collection features various scripts and tools I've developed to assist in solving challenges during Capture The Flag (CTF) competitions. You'll find tools for categories like web exploitation, cryptography, reverse engineering, and more.
-Usage
+# CTF Repository
 
-Each tool comes with its own instructions in the respective folder. Use these to automate tasks and boost your efficiency during CTF challenges.
+This repository is dedicated to my journey in Capture The Flag (CTF) competitions. It contains:
+
+- **Writeups**: My solutions to challenges from various CTFs.  
+  Currently, the repository includes writeups for the following CTFs :
+  - **AMSI2024**
+
+- **Tools**: A collection of scripts and utilities I developed or curated to assist with solving CTF challenges.  
+  These tools focus on cryptography and other common CTF categories.
+
+---
+
+Feel free to explore the directories for more details. 
