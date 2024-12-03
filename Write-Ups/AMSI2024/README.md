@@ -1,32 +1,38 @@
 
 # AMSI2024 Challenge Writeups
 
-This repository contains my solutions and writeups for the AMSI2024 challenges I completed. Below is a summary of the challenges, grouped by category, with links to their respective writeups.
+This repository contains my solutions and writeups for the AMSI2024 challenges I completed. Below is a summary of the challenges, grouped by category, with their respective photos and links to the writeups.
 
 ## Challenges
 
 ### Network
 - **WifiHunt**  
-  [Writeup](Network/WifiHunt/README.md) | ![Challenge](Network/WifiHunt/chall.png)
+  ![Challenge](Network/WifiHunt/chall.png)  
+  [Writeup](Network/WifiHunt/README.md)
 
 ### OSINT
 - **Apero**  
-  [Writeup](OSINT/Apero/README.md) | ![Challenge](OSINT/Apero/chall.png)
+  ![Challenge](OSINT/Apero/chall.png)  
+  [Writeup](OSINT/Apero/README.md)
 
 - **BiMoteur**  
-  [Writeup](OSINT/BiMoteur/README.md) | ![Aeronef](OSINT/BiMoteur/Aeronef.png) | ![Image](OSINT/BiMoteur/Air_Legend-6-scaled.jpg) | ![Challenge](OSINT/BiMoteur/chall.png)
+  ![Challenge](OSINT/BiMoteur/chall.png)  
+  [Writeup](OSINT/BiMoteur/README.md)
 
 ### Prog
 - **Movie**  
-  [Writeup](Prog/Movie/README.md) | ![Challenge](Prog/Movie/chall.png)
+  ![Challenge](Prog/Movie/chall.png)  
+  [Writeup](Prog/Movie/README.md)
 
 ### Reverse
 - **Py[ct]on**  
-  [Writeup](Reverse/Py[ct]on/README.md) | ![Challenge](Reverse/Py[ct]on/chall.png) | [Challenge Script](Reverse/Py[ct]on/challenge.py) | [Compiled Script](Reverse/Py[ct]on/challenge.pyc)
+  ![Challenge](Reverse/Py[ct]on/chall.png)  
+  [Writeup](Reverse/Py[ct]on/README.md)
 
 ### Steganography
 - **FichierVide**  
-  [Writeup](Steganography/FichierVide/README.md) | ![Challenge](Steganography/FichierVide/chall.png) | [ReverseFuck](Steganography/FichierVide/reversefuck.txt) | [File](Steganography/FichierVide/vide.txt)
+  ![Challenge](Steganography/FichierVide/chall.png)  
+  [Writeup](Steganography/FichierVide/README.md)
 
 ---
 
