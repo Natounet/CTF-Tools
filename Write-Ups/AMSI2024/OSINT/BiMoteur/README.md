@@ -5,12 +5,17 @@
 By uploading the picture to Google Lens, we found another image of the plane hosted on:  
 "https://www.grandparissud.fr/evenements/air-legend-lincontournable-show-aerien/#gallery-id-222026"
 
+
+![The website page](./website.png)
+![The other picture of the plane](./Air_Legend-6-scaled.jpg)
+
 This is an advertisement for an air show that took place at **Aérodrome Melun-Villaroche, Réau**.
 
 ## Step 2: Verifying the Airport
 
 The airfield associated with the event is confirmed to be **Aérodrome Melun-Villaroche**.
 
+![The airport satellite view](./airport.png)
 ---
 
 # Identifying the Precise Location
@@ -24,6 +29,8 @@ Key identifiable details in the image:
 
 By cross-referencing the yellow markings with satellite imagery on Google Earth, the markings were matched to a location near coordinates:  
 **48.613, 2.667**
+
+![Yellow marks on the ground](./ground.png)
 
 ## Conclusion
 
